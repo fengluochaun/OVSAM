@@ -12,5 +12,8 @@ runs_2/
 .venv
 .cache/
 
+# Local MMCV checkout and wheel used by the environment
+mmcv/
+
 *.pt
 sam3/
